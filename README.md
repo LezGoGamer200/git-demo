@@ -6,3 +6,13 @@ Hello.
 
 I added some more for testing more stuff.
 Have fun!
+
+Actually useful stuff:
+Welcome. You know why you are here.
+
+Files in repository:
+
+1. index.html - Main webpage.
+2. styles.css - A few styles for the main webpage.
+3. scripts.js - A few jokes for fun.
+4. README.md - Where you are right now.
