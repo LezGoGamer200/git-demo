@@ -7,6 +7,8 @@ Hello.
 I added some more for testing more stuff.
 Have fun!
 
+I know this doesn't look like something someone would actually make for something that is not this assignment, but I don't care and I am leaving it like this.
+
 Actually useful stuff:
 Welcome. You know why you are here.
 
